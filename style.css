@@ -1,0 +1,33 @@
+
+        *{
+            text-align: center;
+            list-style-type: none;
+    
+          }
+
+          img{
+              width: 10%;
+          }
+    
+          div{
+              border: 4px solid black;
+              margin-left: 30%;
+              margin-right: 30%;
+              margin-top: 15%;
+              
+          }
+          
+          a{
+              text-decoration: none;
+              
+          }
+    
+          a:hover{
+    
+            background-color: yellow;
+    
+          }
+
+          a[href="index.html"]:hover{
+              background-color: white;
+          }
